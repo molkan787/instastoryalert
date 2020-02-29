@@ -1,0 +1,2 @@
+include ':app', ':ig4a'
+rootProject.name='InstaStoryAlert'
